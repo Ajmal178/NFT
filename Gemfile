@@ -45,6 +45,9 @@ gem "bootsnap", require: false
 
 gem 'ethereum.rb'   # For interacting with Ethereum blockchain
 gem 'dotenv-rails'  # For managing environment variables
+gem 'devise'
+gem 'devise-jwt'
+
 
 # Use Sass to process CSS
 # gem "sassc-rails"
